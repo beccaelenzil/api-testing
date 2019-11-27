@@ -1,4 +1,7 @@
 require "httparty"
+#require 'dotenv'
+#Tell dotenv to look for the .env file
+
 
 #Starter Code:
 
